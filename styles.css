@@ -31,7 +31,7 @@ main {
 }
 
 main a {
-	font-size: 2em;
+	font-size: 1.5em;
 	color: white;
 }
 
@@ -41,6 +41,27 @@ h1 {
 }
 
 h1 a {
+	color: white;
+	text-decoration: none;
+}
+
+h2 {
+	padding: 20px;
+	margin: 0 auto;
+	color: white;
+	text-decoration: none;
+}
+
+h3 {
+	margin: 0 auto;
+	padding-top: 20px;
+	color: white;
+	text-decoration: none;
+}
+
+.date {
+	padding: 20px;
+	margin: 0 auto;
 	color: white;
 	text-decoration: none;
 }
