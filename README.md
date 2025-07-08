@@ -6,7 +6,7 @@ Effective Date: 2025-07-08
 
     Thank you for using Remote Lens. I believe that you should be able to use your camera without worrying about your privacy. This Privacy Policy is designed to help you understand how I handle your information when you use our app.
 
-2. Information We Do Not Collect
+2. Information I collect
 
     Remote Lens does not collect, store, or share any personal data or information from its users. Our app is designed to operate entirely on your device without the need for a network connection.
 
