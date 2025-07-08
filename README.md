@@ -1,4 +1,4 @@
-#Privacy Policy for Remote Lens:
+# Privacy Policy for Remote Lens:
 
 Remote Lens allows to control a Canon camera via Bluetooth. It runs entirely locally, on your iOS device. It does not need a network connection.
 
