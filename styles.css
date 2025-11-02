@@ -96,7 +96,6 @@ main {
 
 .content {
 	margin-top: 0px;
-    display: flex;
     flex-direction: column;
 }
 
@@ -115,14 +114,6 @@ main {
 	text-align: right;
 }
 
-footer {
-	margin-top: 40px;
-    flex-grow: 0;
-    opacity: .5;
-	flex-shrink: 0;
-	text-align: center;
-}
-
 .links {
 	display: inline-block;
 	padding-top: 15px;
@@ -133,10 +124,19 @@ footer {
     align-items: center;
     gap: 10px;
     margin-bottom: 20px;
+    text-decoration: none;
 }
 
 .project-links a {
     display: inline-block;
+}
+
+footer {
+	margin-top: 40px;
+    flex-grow: 0;
+    opacity: .5;
+	flex-shrink: 0;
+	text-align: center;
 }
 
 footer a {
